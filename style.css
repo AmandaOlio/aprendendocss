@@ -1,19 +1,20 @@
 body {
-    background-color: rgb(76, 153, 178);
+    background-color: pink;
   }
   
   h1 {
-    color: rgb(255, 0, 81);
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
+    color: rgb(177, 58, 95);
   }
 
-  p  {
-     color: pink;
-     font-family:verdana;
-     font-size:20 px;
+  .center{
+    text-align: center;
+  }
+
+  .fonte-verde {
+    color:rgb(22, 148, 97);
+  }
+
+  #para {
+    font-family: verdana;
+    font-size: 20px;
   }
