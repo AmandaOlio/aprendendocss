@@ -1,20 +1,30 @@
 body {
-    background-color: pink;
+    background-color: rgb(255, 200, 209);
+    background-image: url("https://img.freepik.com/vetores-gratis/vetor-de-fundo-decorativo-com-textura-aquarela-rosa-suave_1055-10739.jpg?w=2000");
   }
   
   h1 {
-    color: rgb(177, 58, 95);
+    color: rgb(161, 51, 86);
+    background-color: rgb(241, 213, 218);
+    border: 2px solid aliceblue;
   }
 
+  /*CLASS*/
   .center{
     text-align: center;
   }
 
   .fonte-verde {
-    color:rgb(22, 148, 97);
+    color:darkorchid;
+    border-style: solid;
+    margin-right: 40px;
+    margin-left: 40px;
   }
 
+  /*ID*/
   #para {
     font-family: verdana;
     font-size: 20px;
   }
+
+
